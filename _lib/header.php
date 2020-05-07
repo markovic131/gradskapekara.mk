@@ -21,7 +21,7 @@
         <meta property="og:site_name" content="Кумановска Градска Пекара">
         <meta property="fb:admins" content="100000414319538">
 
-        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:300,900&subset=latin,cyrillic'  type='text/css'>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;900&display=swap" rel="stylesheet">
         <script src="https://kit.fontawesome.com/4c4640da16.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="/css/screen.css">
     </head>
