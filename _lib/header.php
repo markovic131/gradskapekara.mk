@@ -22,8 +22,8 @@
         <meta property="fb:admins" content="100000414319538">
 
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;900&display=swap" rel="stylesheet">
-        <script src="https://kit.fontawesome.com/4c4640da16.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="/css/screen.css">
+        <link rel="stylesheet" href="/css/all.min.css">
     </head>
     <body>
         <header>

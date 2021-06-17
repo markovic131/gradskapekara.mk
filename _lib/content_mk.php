@@ -91,21 +91,7 @@
             <h1>Локации</h1>
             <div class="row">
                 <div class="col-md-6">
-                    <h4><i class="fas fa-map-marker-alt fa-fw"></i>Кумановска Градска Пекара&reg; 3-МУБ<br>&nbsp;</h4>
-                    <p>
-                        <em>Кумановска Градска Пекара&reg;</em> е артисан пекара каде што можете да купите секогаш <em>свежи</em>, <em>ексклузивни</em> и <em>уникатни</em> пекарски и слаткарски производи, направени од најквалитетни состојки; без адитиви!
-                    </p>
-                    <address>
-                        <i class="fas fa-location-circle"></i> 3-Македонска Ударна Бригада 35, 1300 Куманово<br>
-                        <i class="fas fa-phone-square-alt"></i> 031 550 585 / 031 550 580<br>
-                        <i class="fas fa-mobile-alt"></i> 075 224 713 / 078 422 232
-                    </address>
-                    <div class="kgp-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4184.354104003295!2d21.722350962080085!3d42.13348228816324!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaf8792c61aed75b4!2sKumanovska%20Gradska%20Pekara!5e0!3m2!1sen!2smk!4v1576165019499!5m2!1sen!2smk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-                    </div>
-                </div>
-                <div class="col-md-6 text-muted">
-                    <h4><i class="fas fa-map-marker-alt fa-fw"></i>(РЕНОВИРАЊЕ) Кумановска Градска Пекара&reg; Октомврска</h4>
+                    <h4><i class="fas fa-map-marker-alt fa-fw"></i> Кумановска Градска Пекара&reg; #1 Октомврска</h4>
                     <p>
                         <em>Кумановска Градска Пекара&reg;</em> е артисан пекара каде што можете да купите секогаш <em>свежи</em>, <em>ексклузивни</em> и <em>уникатни</em> пекарски и слаткарски производи, направени од најквалитетни состојки; без адитиви!
                     </p>
@@ -116,6 +102,20 @@
                     </address>
                     <div class="kgp-map">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11834.068050315236!2d21.719914!3d42.139222!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9df7f134bbcb05b7!2sKumanovska%20Gradska%20Pekara!5e0!3m2!1sen!2smk!4v1576164978892!5m2!1sen!2smk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <h4><i class="fas fa-map-marker-alt fa-fw"></i>Кумановска Градска Пекара&reg; #2 3-МУБ</h4>
+                    <p>
+                        <em>Кумановска Градска Пекара&reg;</em> е артисан пекара каде што можете да купите секогаш <em>свежи</em>, <em>ексклузивни</em> и <em>уникатни</em> пекарски и слаткарски производи, направени од најквалитетни состојки; без адитиви!
+                    </p>
+                    <address>
+                        <i class="fas fa-location-circle"></i> 3-Македонска Ударна Бригада 35, 1300 Куманово<br>
+                        <i class="fas fa-phone-square-alt"></i> 031 550 585<br>
+                        <i class="fas fa-mobile-alt"></i> 075 224 713
+                    </address>
+                    <div class="kgp-map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4184.354104003295!2d21.722350962080085!3d42.13348228816324!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaf8792c61aed75b4!2sKumanovska%20Gradska%20Pekara!5e0!3m2!1sen!2smk!4v1576165019499!5m2!1sen!2smk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                     </div>
                 </div>
             </div>
